@@ -45,4 +45,5 @@
 
 ​A simple, quick user guide explaining how to get started in clear steps.
 
-
+To run the bot:
+**open a terminal inside the main folder and type .\main.exe
