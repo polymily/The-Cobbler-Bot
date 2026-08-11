@@ -1,8 +1,7 @@
-# The-Cobbler-Bot (v1.0)
- Automated Solana memecoin sniper bot with GUI. Features anti-whale protection, auto take-profit/stop-loss, custom API integration (Helius, Birdeye), and portable .exe setup
 🚀 THE COBBLER — Solana Memecoin Sniper Bot (v1.0)
 
-​Are you looking for a way to snipe memecoins on the Solana network early and ahead of everyone else? Here is the automated trading tool designed specifically to give you speed and efficiency with just a single click!
+ Automated Solana memecoin sniper bot with GUI. Features anti-whale protection, auto take-profit/stop-loss, custom API integration (Helius, Birdeye).
+
 
 ​✨ Why Choose The Cobbler Bot?
 
